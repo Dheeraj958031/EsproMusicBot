@@ -38,12 +38,12 @@
         "required": true
       },
       "SUPPORT_CHAT": {
-        "description": "Cholo Koi na aapn he group link dal lo",
+        "description": "Aapna channel ka link dal liya to group ka ve dal lo",
         "value": "",
         "required": false
       },
       "SUPPORT_CHANNEL": {
-        "description": "Aapna group ka link dal liya to channel ka ve dal lo",
+        "description": "Cholo Koi na aapn he Channel link dal lo",
         "value": "",
         "required": false
       },
