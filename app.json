@@ -40,12 +40,12 @@
       "SUPPORT_CHAT": {
         "description": "Aapna channel ka link dal liya to group ka ve dal lo",
         "value": "",
-        "required": false
+        "required": true
       },
       "SUPPORT_CHANNEL": {
         "description": "Cholo Koi na aapn he Channel link dal lo",
         "value": "",
-        "required": false
+        "required": true
       },
       "STRING_SESSION": {
         "description": "A Pyrogram v2 String Session from @EsproStringBot on Telegram.",
@@ -60,7 +60,7 @@
       "START_IMG_URL": {
         "description": "Bot ka image ",
         "value": "",
-        "required": false
+        "required": true
       },
       "HEROKU_APP_NAME": {
         "description": "Your heroku app name",
