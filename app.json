@@ -1,7 +1,7 @@
 {
-    "name": "🝐꯭𐏓꯭꯭ ⃪⧉⃞🅴𝐒𝙿ⓇᎧ🦋⃝🅼𝐔𝚂Ⓘ𝙲ᥣ᭄𝄄꯭꯭꯭⟭♥️─⃛͢•༎𓆪",
+    "name": "EsproMusic",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://telegra.ph/file/4f98411fc494e0491472e.jpg",
+    "logo": "https://telegra.ph/file/f8b1a280bfc6149974ebd.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -36,6 +36,16 @@
         "description": "The user id of user whom you would like to add as OWNER.",
         "value": "",
         "required": true
+      },
+      "SUPPORT_CHAT": {
+        "description": "Cholo Koi na aapn he group link dal lo",
+        "value": "",
+        "required": false
+      },
+      "SUPPORT_CHANNEL": {
+        "description": "Aapna group ka link dal liya to channel ka ve dal lo",
+        "value": "",
+        "required": false
       },
       "STRING_SESSION": {
         "description": "A Pyrogram v2 String Session from @EsproStringBot on Telegram.",
