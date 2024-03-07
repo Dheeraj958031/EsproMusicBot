@@ -57,6 +57,11 @@
         "value": "",
         "required": false
       },
+      "START_IMG_URL": {
+        "description": "Bot ka image ",
+        "value": "",
+        "required": false
+      },
       "HEROKU_APP_NAME": {
         "description": "Your heroku app name",
         "value": "",
